@@ -1,0 +1,64 @@
+* {
+    font-family: garamond ! important;
+}
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+}
+
+.main-top {
+    height: 80vh;
+    background: linear-gradient(white,black);
+    margin-top: -50px;
+}
+.img-responsive {
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 8%;
+}
+.bottom-image {
+    background-color: #fff;
+    color: #333;
+}
+.cars {
+    padding: 20px 0;
+    background-color: #fff;
+}
+.container-fluid2 {
+    background-color: grey;
+    font-size: 20px;
+}
+.col-md-6 p {
+    position: relative;
+    top: 40px;
+    color: #fff;
+}
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+} 
+/*.map {
+    margin: 2px;
+    padding: 2px;
+    border: 10px solid grey;
+    border-radius: 50%;
+}*/
+.navbar-brand img {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    top: -15px;
+    left: -16px;
+}
+@media only screen and (max-width: 767px){
+    .img-responsive {
+        padding-top: 30%;
+        width: 90%;
+    }
+    .main-top {
+        height: 60vh;
+        background-color: #000;
+        margin-top: -50px; 
+    }
+}

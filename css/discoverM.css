@@ -1,0 +1,30 @@
+* {
+    font-family: garamond ! important;
+}
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+}
+.main-top {
+    /*height: 80vh;*/
+    margin-top: -50px;
+}
+.container {
+    color: #fff;
+    text-align: center;
+    font-size: 20px;
+    margin-top: -400px;
+}
+.body {
+    top: 150px;
+    position: relative;
+}
+.stat {
+    width: 100%;
+    margin-top: 20px;
+    margin: 0;
+    padding: 0;
+    font-size:20px; 
+    vertical-align: baseline;
+    list-style-type: none;
+}

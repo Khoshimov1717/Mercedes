@@ -1,0 +1,51 @@
+#title-wrapper {
+    background-color: black;
+    padding-top: 45px;
+}
+#title {
+    color: white;
+    text-align: center;
+    font-size: 55px;
+    font-weight: bold;
+    font-family: inherit;
+     /*a {
+        color: blue;
+    }
+            &:hover {
+        cursor: pointer;
+        color: blue;
+        
+    }*/
+}
+#title a {
+    text-decoration: none;
+    text-decoration-color: none;
+    color: blue;
+    cursor: pointer;
+}
+.navbar1 {
+    text-align:center;
+    border-bottom: 3px solid black;
+}
+
+.navbar1 li {
+    list-style-type: none;
+    display: inline;
+    font-size: 20px;
+    font-family: arial;
+    padding: 5px;
+    font-weight: 700;
+    
+}
+.navbar2 {
+    text-align: center;
+    border-top: 1px solid #000;/*#000 black color*/
+    margin-top: 3px;
+}
+.navbar2 li {
+    list-style-type: none;
+    display: inline;
+    padding: 3px;
+    color: #a08f68; /*#a08f68 photoshop color code*/
+    font-size: 18px 
+}
