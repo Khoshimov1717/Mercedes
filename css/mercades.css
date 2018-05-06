@@ -59,6 +59,10 @@
     color: #fff;
     padding: 8px 8px 8px 32px;
 }
+.sidenav a{
+    padding: 55px;
+    font-size: 30px;
+}
 .sidenav a:hover {
     color: grey;
     border-bottom: 2px solid grey transparent;
@@ -117,6 +121,18 @@ color: grey ! important;
 
 #sedan_1,#maybach_1,#coupe_1,#amggtr_1 {
     display: block;
+}
+.footer{
+    background-color: #121012;
+    color: white;
+}
+.footer1{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.text {
+    font-weight:500;
+    letter-spacing: 5px;
 }
 
 @media screen and (max-height: 450px) {

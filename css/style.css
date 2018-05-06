@@ -51,6 +51,7 @@
     top: -15px;
     left: -16px;
 }
+
 @media only screen and (max-width: 767px){
     .img-responsive {
         padding-top: 30%;
